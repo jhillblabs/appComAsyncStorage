@@ -1,0 +1,25 @@
+appComAsyncStorage --- val - 01/10/24
+
+git config --global user.name jhillblabs
+git config --global user.email jhilzinhavendito@gamil.com
+
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+
+2. Instalando o metro:
+   npx expo install react-native-web react-dom @expo/metro-runtime
+
+3. Abrir o emulador no Android Studio;
+
+1. Baixar as dependências do projeto executanto o comando:
+   npm i
+
+4. Executar o projeto executando o comando:
+   npx expo start
+
+---------------------------------------------------------------------
+npx create-expo-app
+
+--
+npx expo install @react-native-async-storage/async-storage
+
